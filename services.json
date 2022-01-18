@@ -1,0 +1,65 @@
+[
+    {
+        "id": 1,
+        "name": "Cardiologists",
+        "description": "They’re experts on the heart and blood vessels. You might see them for heart failure, a heart attack, high blood pressure, or an irregular heartbeat.",
+        "image": "https://media.istockphoto.com/photos/cardiologist-doctor-in-the-operation-room-picture-id182157308?b=1&k=20&m=182157308&s=170667a&w=0&h=tjh5FRIoPwfG5J96wsIsKlVzDPYIBsqUrv8-kmb61cI=",
+        "cost": 2000
+    },
+    {
+        "id": 2,
+        "name": "",
+        "description": "They’re specialists in digestive organs, including the stomach, bowels, pancreas, liver, and gallbladder. You might see them for abdominal pain, ulcers, diarrhea, jaundice, or cancers in your digestive organs. They also do a colonoscopy and other tests for colon cancer.",
+        "image": "https://media.istockphoto.com/photos/at-doctors-appointment-physician-shows-to-patient-shape-of-stomach-picture-id1142219445?b=1&k=20&m=1142219445&s=170667a&w=0&h=og9k5YiF7ezkDTL-U2AWJ4M4KIPH3_8rIWZiso8wo5c=",
+        "cost": 1000
+    },
+    {
+        "id": 3,
+        "name": "Ophthalmologists",
+        "description": "You call them eye doctors. They can prescribe glasses or contact lenses and diagnose and treat diseases like glaucoma. Unlike optometrists, they’re medical doctors who can treat every kind of eye condition as well as operate on the eyes.",
+        "image": "https://media.istockphoto.com/photos/girl-visiting-pediatric-optometrist-picture-id1255859407?b=1&k=20&m=1255859407&s=170667a&w=0&h=QP50fuUt4B0CpbIN_nyld7PhQz7DDfQe5YJ4fFI4-2c=",
+        "cost": 2000
+    },
+    {
+        "id": 4,
+        "name": "Neurologists",
+        "description": "These are specialists in the nervous system, which includes the brain, spinal cord, and nerves. They treat strokes, brain and spinal tumors, epilepsy, Parkinson's disease, and Alzheimer's disease.",
+        "image": "https://media.istockphoto.com/photos/males-doctor-examining-brain-mr-picture-id1180488192?b=1&k=20&m=1180488192&s=170667a&w=0&h=F1pIMygHtpmFtzgxDKqcQcbnf8nUjvw85CgAlwFO818=",
+        "cost": 1500
+    },
+    {
+        "id": 5,
+        "name": "Dermatologists",
+        "description": "Have problems with your skin, hair, nails? Do you have moles, scars, acne, or skin allergies? Dermatologists can help.",
+        "image": "https://media.istockphoto.com/photos/dermapen-skin-needling-treatment-picture-id1271011637?b=1&k=20&m=1271011637&s=170667a&w=0&h=chbZs3VrX55A3rswyXwPjUq8jZwo2BOoarPS7lHfyFc=",
+        "cost": 1000
+    },
+    {
+        "id": 6,
+        "name": "Emergency Medicine Specialists",
+        "description": "These doctors make life-or-death decisions for sick and injured people, usually in an emergency room. Their job is to save lives and to avoid or lower the chances of disability.",
+        "image": "https://media.istockphoto.com/photos/theres-always-something-waiting-to-be-discovered-picture-id1027139762?b=1&k=20&m=1027139762&s=170667a&w=0&h=eLPOckejAK8mIj2y2WJsANWY3URAkz3bqlJuGNMzZOA=",
+        "cost": 2000
+    },
+    {
+        "id": 7,
+        "name": "Psychiatrists",
+        "description": "These doctors work with people with mental, emotional, or addictive disorders. They can diagnose and treat depression, schizophrenia, substance abuse, anxiety disorders, and sexual and gender identity issues. Some psychiatrists focus on children, adolescents, or the elderly.",
+        "image": "https://media.istockphoto.com/photos/male-patient-discussing-his-psychological-problems-in-therapy-picture-id1286437031?b=1&k=20&m=1286437031&s=170667a&w=0&h=-HrN7qA9DFp0Z7ahTzmPupTEMgNIsRXyP_g15T5rvKw=",
+        "cost": 1000
+    },
+    {
+        "id": 8,
+        "name": "General Surgeons",
+        "description": "These doctors can operate on all parts of your body. They can take out tumors, appendices, or gallbladders and repair hernias. Many surgeons have subspecialties, like cancer, hand, or vascular surgery.",
+        "image": "https://media.istockphoto.com/photos/emergency-room-picture-id851099598?b=1&k=20&m=851099598&s=170667a&w=0&h=bPjZ_cLYL57BVw4FCCGDBR03RvE8hgMgmXxmNUn8A-8=",
+        "cost": 2000
+    },
+    {
+        "id": 9,
+        "name": "Rheumatologists",
+        "description": "They specialize in arthritis and other diseases in your joints, muscles, bones, and tendons. You might see them for your osteoporosis (weak bones), back pain, gout, tendinitis from sports or repetitive injuries, and fibromyalgia.",
+        "image": "https://media.istockphoto.com/photos/blood-cells-on-scientific-background3d-illustration-picture-id1285253618?b=1&k=20&m=1285253618&s=170667a&w=0&h=0YYxvNhUhkmTeeQm8xkJuRkfHlnLI7rInfDd20o-5Iw=",
+        "cost": 2000
+    }
+]
